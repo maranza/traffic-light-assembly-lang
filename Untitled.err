@@ -1,0 +1,11 @@
+Warning[205] C:\USERS\JAMES\DESKTOP\ROBOT\UNTITLED.ASM 9 : Found directive in column 1. (List)
+Message[302] C:\USERS\JAMES\DESKTOP\ROBOT\UNTITLED.ASM 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JAMES\DESKTOP\ROBOT\UNTITLED.ASM 30 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Error[108]   C:\USERS\JAMES\DESKTOP\ROBOT\UNTITLED.ASM 36 : Illegal character (,)
+Message[302] C:\USERS\JAMES\DESKTOP\ROBOT\UNTITLED.ASM 38 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\JAMES\DESKTOP\ROBOT\UNTITLED.ASM 42 : Using default destination of 1 (file).
+Error[113]   C:\USERS\JAMES\DESKTOP\ROBOT\UNTITLED.ASM 42 : Symbol not previously defined (count2.)
+Error[112]   C:\USERS\JAMES\DESKTOP\ROBOT\UNTITLED.ASM 42 : Missing operator
+Message[305] C:\USERS\JAMES\DESKTOP\ROBOT\UNTITLED.ASM 44 : Using default destination of 1 (file).
+Error[113]   C:\USERS\JAMES\DESKTOP\ROBOT\UNTITLED.ASM 44 : Symbol not previously defined (count5.)
+Error[112]   C:\USERS\JAMES\DESKTOP\ROBOT\UNTITLED.ASM 44 : Missing operator
