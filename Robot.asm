@@ -1,5 +1,5 @@
 ;Traffic Light System
-;Author:lebobtse
+;Author:Maranza
 ;This program switches on Green LED
 ;for one minute, Amber LED for 10sec
 ;and Red LED for 1 min 10 sec
